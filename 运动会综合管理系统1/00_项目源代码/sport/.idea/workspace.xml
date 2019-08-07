@@ -1,0 +1,1019 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a122e8e-f625-46eb-976b-f57fb76d9381" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/PointRecommend.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/addNotice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/allFiind.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/backTable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/book01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/book02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/con_all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/from.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/jquery.treetable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/jquery.treetable.theme.default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/skins/_all-skins.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/style02.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/img/cc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/img/diy/1_close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/img/diy/1_open.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/img/diy/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/img/diy/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/img/diy/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/img/diy/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/img/diy/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/img/diy/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/img/diy/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/img/diy/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/img/diy/cc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/img/diy/zclose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/img/diy/zopen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/img/diy/ztop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/img/line_conn.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/img/zTreeStandard.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/img/zTreeStandard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/zTreeStyle/zTreeStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/download.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/evaluate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/glyphicons-halflings-regulard41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/weathericons-regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/weathericons-regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/weathericons-regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/weathericons-regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/fonts/weathericons-regular-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/handleStatic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/add01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/alam_map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/colse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/del01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/house.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/look.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/loy_ph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/opne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/pr01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/print.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/res01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/table_add.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/table_del.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/table_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/table_print.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/tclose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/timg (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/timg (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/timg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/tjico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/top_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/img/user2-160x160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/.idea/ss.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/css/bootstrap-table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/datel/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/datel/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/datel/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/datel/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/datel/table.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/datel/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/js/bootstrap-table-zh-CN.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/js/bootstrap-table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/js/jquery-2.2.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/js/js-2.1.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/bstable/table_t.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/charts/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/charts/Chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/chat_demo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/date/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/date/js/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/date/js/need/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/date/js/skins/dahong/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/date/js/skins/dahong/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/date/js/skins/danlan/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/date/js/skins/danlan/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/date/js/skins/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/date/js/skins/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/date/js/skins/molv/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/date/js/skins/molv/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/date/js/skins/qianhuang/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/date/js/skins/qianhuang/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/date/js/skins/yahui/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/date/js/skins/yahui/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/date/js/skins/yalan/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/date/js/skins/yalan/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/echarts/echarts-all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/echarts/echarts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/css/froala_editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/css/froala_editor.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/css/froala_page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/css/froala_page.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/css/themes/dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/css/themes/dark.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/css/themes/gray.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/css/themes/gray.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/css/themes/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/css/themes/red.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/css/themes/royal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/css/themes/royal.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/froala_editor.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/froala_editor_ie8.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/bs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/en_ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/en_gb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/en_us.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/me.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/pt_br.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/pt_pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/zh_cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/langs/zh_tw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/libs/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/plugins/block_styles.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/plugins/char_counter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/plugins/colors.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/plugins/file_upload.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/plugins/font_family.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/plugins/font_size.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/plugins/lists.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/plugins/media_manager.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/plugins/tables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/editor/js/plugins/video.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.treetable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery/jQuery-2.2.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/layer_v2.1/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/layer_v2.1/doc/jquery下载.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/layer_v2.1/doc/layer交流.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/layer_v2.1/doc/layer官网.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/layer_v2.1/layer/extend/layer.ext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/layer_v2.1/layer/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/layer_v2.1/layer/skin/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/layer_v2.1/layer/skin/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/layer_v2.1/layer/skin/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/layer_v2.1/layer/skin/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/layer_v2.1/layer/skin/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/layer_v2.1/layer/skin/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/layer_v2.1/layer/skin/layer.ext.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/layer_v2.1/更新日志.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/textarea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/anchor/anchor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/attachment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/attachment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/fileTypeImages/icon_chm.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/fileTypeImages/icon_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/fileTypeImages/icon_doc.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/fileTypeImages/icon_exe.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/fileTypeImages/icon_jpg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/fileTypeImages/icon_mp3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/fileTypeImages/icon_mv.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/fileTypeImages/icon_pdf.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/fileTypeImages/icon_ppt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/fileTypeImages/icon_psd.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/fileTypeImages/icon_rar.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/fileTypeImages/icon_txt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/fileTypeImages/icon_xls.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/images/alignicon.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/images/alignicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/images/file-icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/images/file-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/attachment/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/background/background.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/background/background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/background/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/background/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/background/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/charts/chart.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/charts/charts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/charts/charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/charts/charts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/charts/images/charts0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/charts/images/charts1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/charts/images/charts2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/charts/images/charts3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/charts/images/charts4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/charts/images/charts5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/emotion/emotion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/emotion/emotion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/emotion/emotion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/emotion/images/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/emotion/images/bface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/emotion/images/cface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/emotion/images/fface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/emotion/images/jxface2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/emotion/images/neweditor-tab-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/emotion/images/tface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/emotion/images/wface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/emotion/images/yface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/gmap/gmap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/help/help.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/help/help.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/help/help.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/image/image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/image/image.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/image/image.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/image/images/alignicon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/image/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/image/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/image/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/image/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/image/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/image/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/image/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/insertframe/insertframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/internal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/link/link.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/map/map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/map/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/music/music.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/music/music.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/music/music.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/preview/preview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/scrawl/images/addimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/scrawl/images/brush.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/scrawl/images/delimg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/scrawl/images/delimgH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/scrawl/images/empty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/scrawl/images/emptyH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/scrawl/images/eraser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/scrawl/images/redo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/scrawl/images/redoH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/scrawl/images/scale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/scrawl/images/scaleH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/scrawl/images/size.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/scrawl/images/undo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/scrawl/images/undoH.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/scrawl/scrawl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/scrawl/scrawl.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/scrawl/scrawl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/searchreplace/searchreplace.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/searchreplace/searchreplace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/snapscreen/snapscreen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/spechars/spechars.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/spechars/spechars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/table/dragicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/table/edittable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/table/edittable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/table/edittable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/table/edittd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/table/edittip.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/template/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/template/images/bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/template/images/pre0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/template/images/pre1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/template/images/pre2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/template/images/pre3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/template/images/pre4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/template/template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/template/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/template/template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/video/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/video/images/center_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/video/images/file-icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/video/images/file-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/video/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/video/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/video/images/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/video/images/left_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/video/images/none_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/video/images/progress.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/video/images/right_focus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/video/images/success.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/video/images/success.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/video/video.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/video/video.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/video/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/webapp/webapp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/wordimage/fClipboard_ueditor.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/wordimage/imageUploader.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/wordimage/tangram.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/wordimage/wordimage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/dialogs/wordimage/wordimage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/en/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/en/images/addimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/en/images/alldeletebtnhoverskin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/en/images/alldeletebtnupskin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/en/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/en/images/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/en/images/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/en/images/deletedisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/en/images/deleteenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/en/images/listbackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/en/images/localimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/en/images/music.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/en/images/rotateleftdisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/en/images/rotateleftenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/en/images/rotaterightdisable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/en/images/rotaterightenable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/en/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/zh-cn/images/copy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/zh-cn/images/localimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/zh-cn/images/music.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/zh-cn/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/lang/zh-cn/zh-cn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/php/Uploader.class.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/php/action_crawler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/php/action_list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/php/action_upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/php/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/php/controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/css/ueditor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/css/ueditor.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/dialogbase.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/anchor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/arrow_down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/arrow_up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/button-bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/cancelbutton.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/charts.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/cursor_h.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/cursor_h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/cursor_v.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/cursor_v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/dialog-title-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/filescan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/highlighted.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/icons-all.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/icons.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/loaderror.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/lock.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/neweditor-tab-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/pagebreak.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/scale.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/sortable.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/spacer.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/sparator_v.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/table-cell-align.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/tangram-colorpicker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/toolbar_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/unhighlighted.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/upload.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/videologo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/word.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/default/images/wordpaste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/themes/iframe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/SyntaxHighlighter/shCore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/SyntaxHighlighter/shCoreDefault.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/codemirror/codemirror.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/codemirror/codemirror.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/adapters/mootools-adapter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/adapters/mootools-adapter.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/adapters/prototype-adapter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/adapters/prototype-adapter.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/adapters/standalone-framework.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/adapters/standalone-framework.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/highcharts-more.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/highcharts-more.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/highcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/highcharts.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/modules/annotations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/modules/annotations.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/modules/canvas-tools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/modules/canvas-tools.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/modules/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/modules/data.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/modules/drilldown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/modules/drilldown.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/modules/exporting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/modules/exporting.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/modules/funnel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/modules/funnel.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/modules/heatmap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/modules/heatmap.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/modules/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/modules/map.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/modules/no-data-to-display.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/modules/no-data-to-display.src.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/themes/dark-blue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/themes/dark-green.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/themes/gray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/themes/grid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/highcharts/themes/skies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/jquery-1.10.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/jquery-1.10.2.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/snapscreen/UEditorSnapscreen.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/video-js/font/vjs.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/video-js/font/vjs.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/video-js/font/vjs.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/video-js/font/vjs.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/video-js/video-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/video-js/video-js.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/video-js/video-js.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/video-js/video.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/video-js/video.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/webuploader/Uploader.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/webuploader/webuploader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/webuploader/webuploader.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/webuploader/webuploader.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/webuploader/webuploader.flashonly.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/webuploader/webuploader.flashonly.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/webuploader/webuploader.html5only.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/webuploader/webuploader.html5only.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/webuploader/webuploader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/webuploader/webuploader.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/webuploader/webuploader.withoutimage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/webuploader/webuploader.withoutimage.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/xss.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/zeroclipboard/ZeroClipboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/zeroclipboard/ZeroClipboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/third-party/zeroclipboard/ZeroClipboard.swf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/ueditor.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/ueditor.all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/ueditor.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/ueditor.parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/utf8-php/ueditor.parse.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/ztree/jquery.ztree.all-3.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/ztree/jquery.ztree.all-3.5.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/ztree/jquery.ztree.core-3.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/ztree/jquery.ztree.core-3.5.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/ztree/jquery.ztree.excheck-3.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/ztree/jquery.ztree.excheck-3.5.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/ztree/jquery.ztree.exedit-3.5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/ztree/jquery.ztree.exedit-3.5.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/ztree/jquery.ztree.exedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/ztree_d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/json/Recommend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/json/alam01.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/json/allFind.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/json/download.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/json/draft.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/json/keyFind.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/json/list.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/json/meetfind.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/json/meetsing.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/json/notice.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/json/peoplefind.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/json/recode.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/json/recode_dissent.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/json/register.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/json/reply.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/json/submit.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/json/verfty.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/json/verftyed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/meetfind.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/meetsign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/myMes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/notice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/online.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/peoplefind.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/recode.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/recode_dissent.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/reply.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/sumTable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/supportFind.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/.idea/dictionaries/Administrator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/sport1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/WEB-INF/bottom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/WEB-INF/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/WEB-INF/left.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/WEB-INF/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/WEB-INF/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/WEB-INF/main_info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/WEB-INF/main_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/WEB-INF/main_menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/WEB-INF/main_message.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/WEB-INF/message_info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/WEB-INF/message_replay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/WEB-INF/swich.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/WEB-INF/top.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/css/alogin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/css/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/btnlogin.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/code.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/login_01.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/login_02.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/login_03.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/login_04.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/login_05.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/login_06.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/login_07.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/login_08.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/login_09.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/login_10.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/login_11.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/login_12.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/login_13.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/login_14.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/logo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/login/txt.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/add.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/addinfoblack.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/addinfoblue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/bool.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/boolon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/bottombg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/collapsed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/dirfirst.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/dirsecond.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/exit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/exiton.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/expanded.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/homeon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/leftbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/line.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/list_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/list_input.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/main_r2_c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/main_r4_c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/main_r6_c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/member.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/memberbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/menu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/menuon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/pic23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/pic24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/replayblack.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/replayblue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/switchbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/time.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/top_r1_c5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/images/main/why.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/js/clock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/js/moo.fx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/js/moo.fx.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/js/prototype.lite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/src/main/webapp/js/sdmenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/WEB-INF/bottom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/WEB-INF/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/WEB-INF/left.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/WEB-INF/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/WEB-INF/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/WEB-INF/main_info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/WEB-INF/main_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/WEB-INF/main_menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/WEB-INF/main_message.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/WEB-INF/message_info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/WEB-INF/message_replay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/WEB-INF/swich.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/WEB-INF/top.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/css/alogin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/css/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/btnlogin.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/code.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/login_01.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/login_02.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/login_03.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/login_04.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/login_05.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/login_06.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/login_07.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/login_08.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/login_09.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/login_10.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/login_11.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/login_12.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/login_13.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/login_14.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/logo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/login/txt.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/add.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/addinfoblack.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/addinfoblue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/bool.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/boolon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/bottombg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/collapsed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/dirfirst.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/dirsecond.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/exit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/exiton.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/expanded.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/homeon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/leftbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/line.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/list_bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/list_input.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/main_r2_c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/main_r4_c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/main_r6_c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/member.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/memberbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/menu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/menuon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/pic23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/pic24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/replayblack.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/replayblue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/switchbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/time.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/top_r1_c5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/images/main/why.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/js/clock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/js/moo.fx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/js/moo.fx.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/js/prototype.lite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sport1/target/sport/js/sdmenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sport/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sport/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sport/.idea/sport.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sport/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sport/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sport/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sport/sport.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../sport1/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1740422985">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="50" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="50" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/form.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/css/skins/_all-skins.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="817">
+              <caret line="43" column="29" lean-forward="true" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/book01.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/book01.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="75" />
+    <option name="y" value="160" />
+    <option name="width" value="1457" />
+    <option name="height" value="858" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sport" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sport" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sport" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sport" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sport" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sport" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sport" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sport" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sport" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565166910319" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\毕设\bishe\运动会综合管理系统\00_项目源代码\sport\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a122e8e-f625-46eb-976b-f57fb76d9381" name="Default Changelist" comment="" />
+      <created>1565162004993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565162004993</updated>
+      <workItem from="1565162009477" duration="3374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3374000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="78" y="19" width="1457" height="858" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15246958" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.11840228" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/form.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/skins/_all-skins.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="29" lean-forward="true" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/book01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
